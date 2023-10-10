@@ -13,7 +13,7 @@ public class Account
     }
 
     //método para recuperar o nome do objeto
-    public String getName()
+    public String getName() 
     {
         return name; // retorna valor do nome para o chamador
     }
