@@ -23,5 +23,6 @@ public class Comparison2 {
             System.out.printf("Parabens, voce passou!\n Sua media e %d", soma);
         if (soma < 7)
             System.out.printf("opss... nao foi dessa vez.\n Falta %d ponto(s).", recuperar);
+        
     }
 }
