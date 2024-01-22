@@ -1,0 +1,10 @@
+Especificadores de formato
+%x %X - Hexadecimal inteiro
+%n - Caractere de nova linha
+%o - Octal inteiro
+%f - Ponto flutuante decimal
+%2f - Double
+%e %E - Notação científica
+%d - Número inteiro decimal
+%b %B - Boleano
+%a %A - Hexadecimal de ponto flutuante
